@@ -1,0 +1,369 @@
+#
+#
+#    ┌───               │     
+#    │                  │    
+#    │        ┌───┤     │     ├──┐───┐
+#    │        │   │     │     │  │   │
+#    │        │   │     │     │      │
+#    └────    └───┤     │     │      │
+#
+#                   Sky 
+#
+#                        ────  Íconos ────
+#
+# 
+#   ─────┤  Información básica  ├─────
+#
+#
+[Icon Theme]
+Name=CalmSky
+Comment=Un pack de iconos moderno y elegante.
+Example=folder
+Inherits=breeze,hicolor
+#
+#  ─────────────────────────────────────
+
+# ──┤  Información para KDE Plasma  ├───
+#
+#
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24,32,48
+SmallDefault=16
+SmallSizes=16,22,24,32,48
+PanelDefault=48
+PanelSizes=16,22,24,32,48,64
+DialogDefault=48
+DialogSizes=16,22,24,32,48,64
+FollowsColorScheme=true
+KDE-Extensions=.svg
+
+#
+#  ─────────────────────────────────────
+
+#   ─────┤  Lista de directorios  ├─────
+#
+Directories=Acciones/16,Acciones/22,Acciones/24,Acciones/32,Acciones/Simbólicos,Animaciones/16,Animaciones/22,Animaciones/24,Apps/Escalables,Apps/Simbólicos,Categorías/32,Categorías/Simbólico,Dispositivos/16,Dispositivos/22,Dispositivos/24,Dispositivos/Escalables,Dispositivos/Simbólicos,Emblemas/8,Emblemas/16,Emblemas/22,Emblemas/24,Emblemas/Simbólicos,Archivos/16,Archivos/22,Archivos/Escalables,Archivos/Simbólicos,Carpetas/16,Carpetas/22,Carpetas/24,Carpetas/Escalables,Carpetas/Simbólicos,Estatus/16,Estatus/22,Estatus/24,Estatus/32,Estatus/Simbólicos
+#
+#  ─────────────────────────────────────
+
+#       ─────┤  Acciones  ├─────
+#
+#  ──────────────  16  ─────────────────  
+#
+[Acciones/16]
+Size=16
+Context=Actions
+Type=Fixed
+
+#  ──────────────  22  ───────────────── 
+#
+[Acciones/22]
+Size=22
+Context=Actions
+Type=Fixed
+
+#  ──────────────  24  ───────────────── 
+#
+[Acciones/24]
+Size=24
+Context=Actions
+Type=Fixed
+
+#  ──────────────  32  ───────────────── 
+#
+[Acciones/32]
+Size=32
+Context=Actions
+MinSize=32
+MaxSize=256
+Type=Scalable
+
+#  ──────────  Simbólicos  ───────────── 
+#
+[Acciones/Simbólicos]
+Size=16
+Context=Actions
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#      ─────┤  Animaciones  ├─────
+#
+#  ──────────────  16  ───────────────── 
+#
+[Animaciones/16]
+Size=16
+Context=Animations
+Type=Fixed
+
+#  ──────────────  22  ───────────────── 
+#
+[Animaciones/22]
+Size=22
+Context=Animations
+Type=Fixed
+
+#  ──────────────  24  ───────────────── 
+#
+[Animaciones/24]
+Size=24
+Context=Animations
+Type=Fixed
+#
+#  ─────────────────────────────────────
+
+#          ─────┤  Apps  ├─────
+#
+#  ───────────  Escalables  ────────────
+#
+[Apps/Escalables]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+#  ──────────  Simbólicos  ───────────── 
+#
+[Apps/Simbólicos]
+Size=16
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#       ─────┤  Categorías  ├─────
+#
+#  ──────────────  32  ─────────────────
+#
+[Categorías/32]
+Size=32
+Context=Categories
+MinSize=32
+MaxSize=256
+Type=Scalable
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Categorías/Simbólico]
+Size=16
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#      ─────┤  Dispositivos  ├─────
+#
+#  ──────────────  16  ─────────────────
+#
+[Dispositivos/16]
+Size=16
+Context=Devices
+Type=Fixed
+
+#  ──────────────  22  ─────────────────
+#
+[Dispositivos/22]
+Size=22
+Context=Devices
+Type=Fixed
+
+#  ──────────────  24  ─────────────────
+#
+[Dispositivos/24]
+Size=24
+Context=Devices
+Type=Fixed
+
+#  ────────────  Escalables  ────────────
+#
+[Dispositivos/Escalables]
+Size=64
+Context=Devices
+MinSize=32
+MaxSize=512
+Type=Scalable
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Dispositivos/Simbólicos]
+Size=16
+Context=Devices
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#       ─────┤  Emblemas  ├─────
+#
+#  ──────────────   8   ─────────────────
+#
+[Emblemas/8]
+Size=8
+Context=Emblems
+Type=Fixed
+
+#  ──────────────  16  ─────────────────
+#
+[Emblemas/16]
+Size=16
+Context=Emblems
+Type=Fixed
+
+#  ──────────────  22  ─────────────────
+#
+[Emblemas/22]
+Size=22
+Context=Emblem
+MinSize=16
+MaxSize=96
+Type=Scalable
+
+#  ──────────────  24  ─────────────────
+#
+[Emblemas/24]
+Size=24
+Context=Emblems
+Type=Fixed
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Emblemas/Simbólicos]
+Size=16
+Context=Emblems
+MinSize=16
+MaxSize=96
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#       ─────┤  Archivos  ├─────
+#
+#  ──────────────  16  ─────────────────
+#
+[Archivos/16]
+Size=16
+Context=MimeTypes
+Type=Fixed
+
+#  ──────────────  22  ─────────────────
+#
+[Archivos/22]
+Size=22
+Context=MimeTypes
+Type=Fixed
+
+#  ───────────  Escalables  ────────────
+#
+[Archivos/Escalables]
+Size=64
+Context=MimeTypes
+MinSize=24
+MaxSize=512
+Type=Scalable
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Archivos/Simbólicos]
+Size=16
+Context=MimeTypes
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#        ─────┤  Lugares  ├─────
+#
+#  ──────────────  16  ─────────────────
+#
+[Carpetas/16]
+Size=16
+Context=Places
+Type=Fixed
+
+#  ──────────────  22  ─────────────────
+#
+[Carpetas/22]
+Size=22
+Context=Places
+Type=Fixed
+
+#  ──────────────  24  ─────────────────
+#
+[Carpetas/24]
+Size=24
+Context=Places
+Type=Fixed
+
+#  ───────────  Escalables  ────────────
+#
+[Carpetas/Escalables]
+Size=64
+Context=Places
+MinSize=32
+MaxSize=512
+Type=Scalable
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Carpetas/Simbólicos]
+Size=16
+Context=Places
+MinSize=16
+MaxSize=512
+Type=Scalable
+#
+#  ─────────────────────────────────────
+
+#        ─────┤  Estatus  ├─────
+#
+#  ──────────────  16  ─────────────────
+#
+[Estatus/16]
+Size=16
+Context=Status
+Type=Fixed
+
+#  ──────────────  22  ─────────────────
+#
+[Estatus/22]
+Size=22
+Context=Status
+Type=Fixed
+
+#  ──────────────  24  ─────────────────
+#
+[Estatus/24]
+Size=24
+Context=Status
+Type=Fixed
+
+#  ──────────────  32  ─────────────────
+#
+[Estatus/32]
+Size=32
+Context=Status
+Type=Fixed
+
+#  ──────────  Simbólicos  ─────────────
+#
+[Estatus/Simbólicos]
+Size=16
+Context=Status
+MinSize=16
+MaxSize=512
+Types=Scalable
+#
+#  ─────────────────────────────────────

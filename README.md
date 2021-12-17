@@ -10,7 +10,7 @@
  
 ## Instalación 
 
- Mover la carpeta de los iconos a .icons en ~/ (si no existe, crearla) o, en su defecto a /usr/share/icons/.
+ Mover la carpeta de los iconos a .icons en ~/ (si no existe, crearla) o, en su defecto a /usr/share/icons/
 
  Aplicarlo.
 

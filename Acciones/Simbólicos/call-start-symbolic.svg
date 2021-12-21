@@ -6,7 +6,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="view-list-symbolic.svg"
+   sodipodi:docname="call-start-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="24.439378"
-     inkscape:cx="11.375085"
-     inkscape:cy="10.27031"
+     inkscape:zoom="23.007383"
+     inkscape:cx="8.9536475"
+     inkscape:cy="9.1275048"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -56,52 +56,26 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="stroke-width:0.866025;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456"
+       style="fill-rule:evenodd;stroke-width:1.58113"
+       id="rect330"
        width="6"
-       height="1"
-       x="8"
-       y="3"
-       ry="0" />
-    <rect
-       style="stroke-width:1.76776;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456-5-5-2"
-       width="5"
        height="5"
-       x="2"
-       y="2"
-       ry="0" />
+       x="9"
+       y="-6"
+       ry="2"
+       transform="rotate(90)" />
     <rect
-       style="stroke-width:1.76776;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456-5-5-2-2"
-       width="5"
+       style="fill-rule:evenodd;stroke-width:1.58113"
+       id="rect330-3"
+       width="6"
        height="5"
-       x="2"
-       y="9"
-       ry="0" />
-    <rect
-       style="stroke-width:0.866025;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456-3"
-       width="6"
-       height="1"
-       x="8"
-       y="5"
-       ry="0" />
-    <rect
-       style="stroke-width:0.866025;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456-3-7"
-       width="6"
-       height="1"
-       x="8"
-       y="12"
-       ry="0" />
-    <rect
-       style="stroke-width:0.866025;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1456-3-0"
-       width="6"
-       height="1"
-       x="8"
-       y="10"
-       ry="0" />
+       x="9"
+       y="1"
+       ry="2" />
+    <path
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15,3 c 0,4 -1,7 -3,9 -2,2 -5,3 -9,3 v -3 c 2.7104045,-0.234288 5,0 7,-2 2,-2 1.973683,-3.8296895 2,-6 z"
+       id="path1405"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

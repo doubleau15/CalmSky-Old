@@ -35,11 +35,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.219689"
+     inkscape:zoom="24.439378"
      inkscape:cx="8.9200306"
-     inkscape:cy="9.5337941"
+     inkscape:cy="9.5337942"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,12 +56,24 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect968"
-       style="fill:#000000;stroke-width:0.783349"
-       d="M 4 6 C 2.892 6 2 6.892 2 8 L 2 13 C 2 14.108 2.892 15 4 15 L 12 15 C 13.108 15 14 14.108 14 13 L 14 8 C 14 6.892 13.108 6 12 6 L 4 6 z M 4.5546875 7 L 11.445312 7 C 12.30709 7 13 7.6929097 13 8.5546875 L 13 12.445312 C 13 13.30709 12.30709 14 11.445312 14 L 4.5546875 14 C 3.6929097 14 3 13.30709 3 12.445312 L 3 8.5546875 C 3 7.6929097 3.6929097 7 4.5546875 7 z " />
+       id="rect847"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 5 5 C 3.338 5 2 6.338 2 8 L 2 12 C 2 13.662 3.338 15 5 15 L 11 15 C 12.662 15 14 13.662 14 12 L 14 8 C 14 6.338 12.662 5 11 5 L 5 5 z M 6 6 L 10 6 C 11.662 6 13 7.338 13 9 L 13 11 C 13 12.662 11.662 14 10 14 L 6 14 C 4.338 14 3 12.662 3 11 L 3 9 C 3 7.338 4.338 6 6 6 z " />
     <path
-       id="rect968-2"
-       style="fill:#000000;stroke-width:0.603023"
-       d="M 7 2 C 5.338 2 4 3.338 4 5 L 4 7 C 4 7.0341814 4.0008301 7.067664 4.0019531 7.1015625 C 4.1739745 7.036334 4.3592537 7 4.5546875 7 L 5.0136719 7 C 5.0046635 6.917871 5 6.8346058 5 6.75 L 5 5.25 C 5 4.0035 6.0035 3 7.25 3 L 8.75 3 C 9.9965 3 11 4.0035 11 5.25 L 11 6.75 C 11 6.8346058 10.995337 6.917871 10.986328 7 L 11.445312 7 C 11.640746 7 11.826025 7.036334 11.998047 7.1015625 C 11.99917 7.067664 12 7.0341814 12 7 L 12 5 C 12 3.338 10.662 2 9 2 L 7 2 z " />
+       id="rect1337"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 7 1 C 5.338 1 4 2.338 4 4 L 4 6 L 5.0136719 6 C 5.0046635 5.917871 5 5.8346058 5 5.75 L 5 4.25 C 5 3.0035 6.0035 2 7.25 2 L 8.75 2 C 9.9965 2 11 3.0035 11 4.25 L 11 5.75 C 11 5.8346058 10.995337 5.917871 10.986328 6 L 12 6 L 12 4 C 12 2.338 10.662 1 9 1 L 7 1 z " />
+    <rect
+       style="stroke-linecap:round;stroke-linejoin:round"
+       id="rect1800"
+       width="2"
+       height="2"
+       x="7"
+       y="8"
+       ry="1" />
+    <path
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8,10 7,12 H 9 Z"
+       id="path1876" />
   </g>
 </svg>

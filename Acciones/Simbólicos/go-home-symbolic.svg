@@ -6,7 +6,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="user-home-symbolic.svg"
+   sodipodi:docname="go-home-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="18.766357"
-     inkscape:cx="16.145915"
-     inkscape:cy="7.673306"
+     inkscape:zoom="9.3831785"
+     inkscape:cx="6.5009954"
+     inkscape:cy="10.657369"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -55,27 +55,13 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       id="rect2219"
-       width="1.1381346"
-       height="10.224671"
-       x="4.4708505"
-       y="6.3454471"
-       ry="0.56803727"
-       transform="matrix(0.63701661,-0.77085008,0.76445454,0.64467764,0,0)"
-       style="stroke-width:1.13711" />
-    <rect
-       id="rect2219-7"
-       width="1.1381346"
-       height="10.224671"
-       x="-5.8571839"
-       y="-6.0039277"
-       ry="0.56803727"
-       transform="matrix(-0.6370166,-0.77085008,-0.76445454,0.64467764,0,0)"
-       style="stroke-width:1.13711" />
     <path
-       id="rect928"
-       style="fill-rule:evenodd"
-       d="M 5 6 C 3.892 6 3 6.892 3 8 L 3 14 C 3 15.108 3.892 16 5 16 L 11 16 C 12.108 16 13 15.108 13 14 L 13 8 C 13 6.892 12.108 6 11 6 L 5 6 z M 5.5996094 7 L 10.400391 7 C 11.286791 7 12 7.7132094 12 8.5996094 L 12 13.400391 C 12 14.286791 11.286791 15 10.400391 15 L 5.5996094 15 C 4.7132094 15 4 14.286791 4 13.400391 L 4 8.5996094 C 4 7.7132094 4.7132094 7 5.5996094 7 z " />
+       id="rect1378"
+       style="fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+       d="M 6 6 C 4.338 6 3 7.338 3 9 L 3 13 C 3 14.662 4.338 16 6 16 L 10 16 C 11.662 16 13 14.662 13 13 L 13 9 C 13 7.338 11.662 6 10 6 L 6 6 z M 6.4003906 7 L 9.5996094 7 C 10.929209 7 12 8.0707906 12 9.4003906 L 12 12.599609 C 12 13.929209 10.929209 15 9.5996094 15 L 6.4003906 15 C 5.0707906 15 4 13.929209 4 12.599609 L 4 9.4003906 C 4 8.0707906 5.0707906 7 6.4003906 7 z " />
+    <path
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 7,0 H 9 L 16,6 15,7 8,1 1,7 0,6 Z"
+       id="path859" />
   </g>
 </svg>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    width="16"
    height="16"
@@ -6,25 +8,11 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="value-decrease-symbolic.svg"
+   sodipodi:docname="action-unavailable-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata9">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -35,38 +23,38 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="24.439378"
-     inkscape:cx="7.2014926"
-     inkscape:cy="10.024805"
+     inkscape:zoom="8.640625"
+     inkscape:cx="10.76311"
+     inkscape:cy="8.1012658"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0">
+     inkscape:current-layer="layer2">
     <inkscape:grid
        type="xygrid"
-       id="grid928" />
+       id="grid824" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Base"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect847"
-       style="opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect928"
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4, 4"
        d="M 8 0 C 3.568 0 0 3.568 0 8 C 0 12.432 3.568 16 8 16 C 12.432 16 16 12.432 16 8 C 16 3.568 12.432 0 8 0 z M 8 1 C 11.878 1 15 4.122 15 8 C 15 11.878 11.878 15 8 15 C 4.122 15 1 11.878 1 8 C 1 4.122 4.122 1 8 1 z " />
-    <rect
-       style="fill-opacity:1;stroke-width:0.894427;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1304-6"
-       width="2"
-       height="8"
-       x="7"
-       y="-12"
-       ry="0"
-       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="ícono">
+    <path
+       style="fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14,3 13,2 2,13 3,14 Z"
+       id="path938-3"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.55494"
-     inkscape:cx="2.070898"
-     inkscape:cy="10.35449"
+     inkscape:zoom="25.109879"
+     inkscape:cx="5.7347946"
+     inkscape:cy="10.19519"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -56,23 +56,9 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill-opacity:1;stroke:none;stroke-width:1.03785;stroke-linecap:square"
-       id="rect2585"
-       width="1.0704029"
-       height="9.0282059"
-       x="-4.0943923"
-       y="3.5341463"
-       ry="0.50156707"
-       transform="matrix(-0.87493312,0.48424377,0.60707538,0.79464425,0,0)" />
-    <rect
-       style="fill-opacity:1;stroke:none;stroke-width:1.03785;stroke-linecap:square"
-       id="rect2585-5"
-       width="1.0704029"
-       height="9.0282059"
-       x="-13.913218"
-       y="-10.617003"
-       ry="0.50156707"
-       transform="matrix(-0.87493312,-0.48424377,0.60707538,-0.79464425,0,0)" />
+    <path
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6,1 -1,1 5,6 -5,6 1,1 5,-6 V 7 Z"
+       id="path857" />
   </g>
 </svg>

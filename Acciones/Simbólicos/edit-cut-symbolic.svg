@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="24.439378"
-     inkscape:cx="2.7823949"
-     inkscape:cy="10.147558"
+     inkscape:zoom="34.5625"
+     inkscape:cx="7.2911393"
+     inkscape:cy="10.155515"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -65,13 +65,13 @@
        d="M 4 9 C 2.338 9 1 10.338 1 12 C 1 13.662 2.338 15 4 15 C 5.662 15 7 13.662 7 12 C 7 10.338 5.662 9 4 9 z M 4 10 C 5.108 10 6 10.892 6 12 C 6 13.108 5.108 14 4 14 C 2.892 14 2 13.108 2 12 C 2 10.892 2.892 10 4 10 z " />
     <path
        style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 6,11 8,-7 h 1 v 1 l -8,7 z"
+       d="m 6,11 8,-7 c 0.333333,0.3333333 0.666667,0.6666667 1,1 l -8,7 z"
        id="path2183"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="ccccc" />
     <path
        style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 6,5 8,7 h 1 V 11 L 7,4 Z"
+       d="m 6,5 8,7 c 0.333333,-0.333333 0.666667,-0.666667 1,-1 L 7,4 Z"
        id="path2183-2"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

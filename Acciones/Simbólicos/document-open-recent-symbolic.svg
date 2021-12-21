@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.55494"
+     inkscape:zoom="25.10988"
      inkscape:cx="12.743988"
-     inkscape:cy="9.8765906"
+     inkscape:cy="9.8765904"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -60,20 +60,8 @@
        id="rect8945"
        d="M 8 0 C 3.568 0 0 3.568 0 8 C 0 12.432 3.568 16 8 16 C 12.432 16 16 12.432 16 8 C 16 3.568 12.432 0 8 0 z M 8 1 C 11.878 1 15 4.122 15 8 C 15 11.878 11.878 15 8 15 C 4.122 15 1 11.878 1 8 C 1 4.122 4.122 1 8 1 z " />
     <path
-       style="opacity:0.2;stroke:none;stroke-width:1.29099px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 12,7 V 9 H 7 V 7 Z"
-       id="path1020-3" />
-    <path
-       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
-       d="M 7,5 H 9 V 8 H 7 Z"
-       id="path1020" />
-    <rect
-       style="opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4, 4"
-       id="rect1420"
-       width="2"
-       height="2"
-       x="7"
-       y="7"
-       ry="0" />
+       id="path1020-3"
+       style="opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7 3 L 7 9 L 8 9 L 13 9 L 13 8 L 8 8 L 8 3 L 7 3 z " />
   </g>
 </svg>

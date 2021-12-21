@@ -35,11 +35,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="17.28125"
-     inkscape:cx="8.9113924"
-     inkscape:cy="9.5768536"
+     inkscape:zoom="24.439378"
+     inkscape:cx="8.9200306"
+     inkscape:cy="9.5747117"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,32 +56,32 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       id="rect7480"
-       width="12"
-       height="1"
-       x="2"
-       y="3"
-       ry="0" />
-    <rect
-       id="rect7480-8"
-       width="12"
-       height="1"
-       x="2"
-       y="9"
-       ry="0" />
-    <rect
        id="rect7480-8-7"
-       width="12"
-       height="1"
-       x="2"
-       y="6"
-       ry="0" />
+       width="2"
+       height="2"
+       x="10"
+       y="7"
+       ry="0"
+       style="stroke-width:0.577351" />
     <rect
-       id="rect7480-8-9"
-       width="12"
-       height="1"
-       x="2"
-       y="12"
-       ry="0" />
+       id="rect7480-8-7-3"
+       width="2"
+       height="2"
+       x="7"
+       y="7"
+       ry="0"
+       style="stroke-width:0.577351" />
+    <rect
+       id="rect7480-8-7-7"
+       width="2"
+       height="2"
+       x="4"
+       y="7"
+       ry="0"
+       style="stroke-width:0.57735" />
+    <path
+       id="rect849"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 8 0 C 3.568 0 0 3.568 0 8 C 0 12.432 3.568 16 8 16 C 12.432 16 16 12.432 16 8 C 16 3.568 12.432 0 8 0 z M 8 1 C 11.878 1 15 4.122 15 8 C 15 11.878 11.878 15 8 15 C 4.122 15 1 11.878 1 8 C 1 4.122 4.122 1 8 1 z " />
   </g>
 </svg>

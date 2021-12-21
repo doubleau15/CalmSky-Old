@@ -35,11 +35,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.2774699"
-     inkscape:cx="9.7172908"
-     inkscape:cy="6.1330442"
+     inkscape:zoom="25.10988"
+     inkscape:cx="9.7172907"
+     inkscape:cy="6.1330441"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,12 +57,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect2687"
-       style="fill-opacity:1;stroke-width:0.999991"
-       d="M 4.861325,2 C 4.5643966,1.9936563 4.265206,2.1092694 4.0332,2.3476562 L 2.3574188,4.0683594 C 2.1158998,4.3165182 1.99845,4.6479289 2.00195,4.9785156 2.00185,4.9858156 2,4.9926606 2,4.9999996 c 0,0.019979 0.00271,0.038905 0.00391,0.058594 0.00373,0.064225 0.012144,0.1271515 0.027344,0.1875 0.045782,0.2107966 0.1420766,0.4120473 0.2929688,0.5800781 l 1.609375,1.7910156 C 4.1564481,7.8653588 4.451115,7.9936577 4.7480438,8 5.0449726,8.0063423 5.3441633,7.8907279 5.5761688,7.6523438 6.0088521,7.2077681 6.0510453,6.4964486 5.6933563,6 h 1.3066406 1 V 4 h -1 -1.2421875 C 6.1040504,3.520424 6.0805121,2.8335133 5.6757781,2.3828125 5.45292,2.1346421 5.1582535,2.0063439 4.861325,2 Z" />
+       id="rect927"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 8 2 C 4.676 2 2 4.676 2 8 L 4 8 C 4 5.784 5.784 4 8 4 C 10.216 4 12 5.784 12 8 C 12 10.216 10.216 12 8 12 L 8 14 C 11.324 14 14 11.324 14 8 C 14 4.676 11.324 2 8 2 z " />
     <path
-       id="rect1607"
-       style="fill-rule:evenodd"
-       d="M 7 4 L 7 4.4140625 C 6.6400168 4.5705132 6.3017339 4.7673074 5.9921875 5 L 7 5 L 7 6 L 9 6 C 10.662 6 12 7.338 12 9 C 12 10.662 10.662 12 9 12 C 7.338 12 6 10.662 6 9 L 4 9 C 4 11.77 6.23 14 9 14 C 11.77 14 14 11.77 14 9 C 14 6.23 11.77 4 9 4 L 7 4 z " />
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 2,8 V 3 L 4,1 V 6 H 8 L 7,8 Z"
+       id="path1431"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

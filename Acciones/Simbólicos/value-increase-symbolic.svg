@@ -35,11 +35,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.219689"
+     inkscape:zoom="24.439378"
      inkscape:cx="7.2014926"
      inkscape:cy="10.024805"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,20 +55,26 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       id="rect847"
+       style="opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       d="M 8 0 C 3.568 0 0 3.568 0 8 C 0 12.432 3.568 16 8 16 C 12.432 16 16 12.432 16 8 C 16 3.568 12.432 0 8 0 z M 8 1 C 11.878 1 15 4.122 15 8 C 15 11.878 11.878 15 8 15 C 4.122 15 1 11.878 1 8 C 1 4.122 4.122 1 8 1 z " />
     <rect
-       id="rect12001"
-       width="12"
-       height="2"
-       x="2"
-       y="7"
-       ry="1" />
+       style="opacity:1;fill-opacity:1;stroke-width:0.894427;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1304"
+       width="2"
+       height="8"
+       x="7"
+       y="4"
+       ry="0" />
     <rect
-       id="rect12001-0"
-       width="12"
-       height="2"
-       x="2"
-       y="-9"
-       ry="1"
+       style="fill-opacity:1;stroke-width:0.894427;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1304-6"
+       width="2"
+       height="8"
+       x="7"
+       y="-12"
+       ry="0"
        transform="rotate(90)" />
   </g>
 </svg>

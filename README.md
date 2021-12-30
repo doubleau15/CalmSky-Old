@@ -14,10 +14,9 @@
 
  Aplicarlo.
 
-### Beta 0.1.1
+### Beta 0.1.2
 
 ### Registro de cambios:
 
-- Añadidos iconos de aciones.
-- Añadidos iconos de archivos de tamaño más pequeño.
-- Añadidos iconos de carpetas de tamaño más pequeño.
+ - Resolución del estilo de flechas de iconos de acciones.
+ - Añadidos algunos iconos de aplicaciones.

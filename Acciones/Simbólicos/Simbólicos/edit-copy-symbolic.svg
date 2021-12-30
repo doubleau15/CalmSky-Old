@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="edit-copy-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.219689"
+     inkscape:cx="3.7644166"
+     inkscape:cy="7.9380089"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1515"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 4 0 C 2.338 0 1 1.338 1 3 L 1 9 C 1 10.662 2.338 12 4 12 L 9 12 C 10.662 12 12 10.662 12 9 L 12 3 C 12 1.338 10.662 0 9 0 L 4 0 z M 4.5 1 L 8.5 1 C 9.885 1 11 2.115 11 3.5 L 11 8.5 C 11 9.885 9.885 11 8.5 11 L 4.5 11 C 3.115 11 2 9.885 2 8.5 L 2 3.5 C 2 2.115 3.115 1 4.5 1 z " />
+    <path
+       id="rect1515-3"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 13 4.1738281 L 13 5.5019531 C 13.606787 5.9572599 14 6.6796309 14 7.5 L 14 12.5 C 14 13.885 12.885 15 11.5 15 L 7.5 15 C 6.2861399 15 5.280978 14.144071 5.0507812 13 L 4 13 C 4 14.662 5.338 16 7 16 L 12 16 C 13.662 16 15 14.662 15 13 L 15 7 C 15 5.6895172 14.16665 4.5843366 13 4.1738281 z M 4 10.949219 L 4 11 L 4.5 11 C 4.3288601 11 4.1613005 10.981674 4 10.949219 z " />
+  </g>
+</svg>

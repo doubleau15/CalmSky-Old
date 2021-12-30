@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="object-locked-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.439378"
+     inkscape:cx="8.9200306"
+     inkscape:cy="9.5337942"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect847"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 5 5 C 3.338 5 2 6.338 2 8 L 2 12 C 2 13.662 3.338 15 5 15 L 11 15 C 12.662 15 14 13.662 14 12 L 14 8 C 14 6.338 12.662 5 11 5 L 5 5 z M 6 6 L 10 6 C 11.662 6 13 7.338 13 9 L 13 11 C 13 12.662 11.662 14 10 14 L 6 14 C 4.338 14 3 12.662 3 11 L 3 9 C 3 7.338 4.338 6 6 6 z " />
+    <path
+       id="rect1337"
+       style="stroke-linecap:round;stroke-linejoin:round"
+       d="M 7 1 C 5.338 1 4 2.338 4 4 L 4 6 L 5.0136719 6 C 5.0046635 5.917871 5 5.8346058 5 5.75 L 5 4.25 C 5 3.0035 6.0035 2 7.25 2 L 8.75 2 C 9.9965 2 11 3.0035 11 4.25 L 11 5.75 C 11 5.8346058 10.995337 5.917871 10.986328 6 L 12 6 L 12 4 C 12 2.338 10.662 1 9 1 L 7 1 z " />
+    <rect
+       style="stroke-linecap:round;stroke-linejoin:round"
+       id="rect1800"
+       width="2"
+       height="2"
+       x="7"
+       y="8"
+       ry="1" />
+    <path
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8,10 7,12 H 9 Z"
+       id="path1876" />
+  </g>
+</svg>

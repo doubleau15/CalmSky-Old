@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="paint-none-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.1098445"
+     inkscape:cx="8.3471846"
+     inkscape:cy="8.019844"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect927-3"
+       style="stroke-width:0.875;stroke-linecap:round;stroke-linejoin:round"
+       d="M 4 1 C 2.338 1 1 2.338 1 4 L 1 12 C 1 13.662 2.338 15 4 15 L 12 15 C 13.662 15 15 13.662 15 12 L 15 4 C 15 2.338 13.662 1 12 1 L 4 1 z M 5 2 L 11 2 C 12.662 2 14 3.338 14 5 L 14 11 C 14 12.662 12.662 14 11 14 L 5 14 C 3.338 14 2 12.662 2 11 L 2 5 C 2 3.338 3.338 2 5 2 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="ícono">
+    <path
+       id="path890"
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6 5 L 5 6 L 7 8 L 5 10 L 6 11 L 8 9 L 10 11 L 11 10 L 9 8 L 11 6 L 10 5 L 8 7 L 6 5 z " />
+  </g>
+</svg>

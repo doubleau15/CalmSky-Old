@@ -3,16 +3,23 @@
  Tema de iconos para distribuciones GNU/Linux con enfoque modernista.
 
 ## Descarga
-
- Realizar git clone https://github.com/doubleau15/CalmSky.git
+ Clonar repositorio o descargar en formato comprimido.
  
- O descargar en Zip.
+     git clone https://github.com/doubleau15/CalmSky.git
  
 ## Instalación 
 
- Mover la carpeta de los iconos a .icons en ~/ (si no existe, crearla) o, en su defecto a /usr/share/icons/
+ Mover la carpeta de los iconos a <code>.icons</code> en el directorio de usuario (si no existe, crearlo) o, en su defecto a <code>/usr/share/icons/</code> para disponerla a nivel sistema.
+ 
+     mkdir -p ~/.icons
+     
+     #Para un usuario
+     cp -r CalmSky ~/.icons
+     
+     #Para todos los usuarios (a nivel sistema)
+      # cp -r CalmSky /usr/share/icons
 
- Aplicarlo.
+ A continuación, aplicarlo en los ajustes de su entorno de escritorio.
 
 ### Beta 0.1.2
 

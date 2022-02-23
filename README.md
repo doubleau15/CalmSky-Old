@@ -27,3 +27,5 @@
 
  - Resolución del estilo de flechas de iconos de acciones.
  - Añadidos algunos iconos de aplicaciones.
+
+## Éste repositorio no será mantenido por lo pronto
